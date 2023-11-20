@@ -1,3 +1,6 @@
+*The code in TaskManagementSystem.py has been changed a bit from the original code. Some code has been added, but some code has been removed because some features did not work on the Mac.
+
+
 # **Request Data**
 To make a request to the task management microservice, use the “/import_tasks” endpoint. It involves sending an HTTP GET request to the microservice's URL and port. The response will contain the tasks stored in the microservice in JSON format.
 
